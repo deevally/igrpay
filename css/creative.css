@@ -10567,7 +10567,8 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #950193;
+  /* border-color: #f4623a; */
 }
 
 hr.light {
@@ -10748,3 +10749,5 @@ header.masthead h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+
